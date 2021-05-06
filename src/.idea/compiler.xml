@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="serialization" />
+        <module name="executive" />
+        <module name="primitives" />
+        <module name="configuration" />
+        <module name="interception" />
+        <module name="context" />
+        <module name="utilities" />
+        <module name="injection" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="configuration" target="14" />
+      <module name="context" target="14" />
+      <module name="executive" target="14" />
+      <module name="injection" target="14" />
+      <module name="interception" target="14" />
+      <module name="polyfills" target="14" />
+      <module name="primitives" target="14" />
+      <module name="serialization" target="14" />
+      <module name="utilities" target="14" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="configuration" options="-Xlint:all" />
+      <module name="context" options="-Xlint:all" />
+      <module name="executive" options="-Xlint:all" />
+      <module name="injection" options="-Xlint:all" />
+      <module name="interception" options="-Xlint:all" />
+      <module name="polyfills" options="-Xlint:all" />
+      <module name="primitives" options="-Xlint:all" />
+      <module name="serialization" options="-Xlint:all" />
+      <module name="utilities" options="-Xlint:all" />
+    </option>
+  </component>
+</project>

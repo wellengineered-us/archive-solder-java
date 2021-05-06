@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/configuration/configuration.iml" filepath="$PROJECT_DIR$/configuration/configuration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/context/context.iml" filepath="$PROJECT_DIR$/context/context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/executive/executive.iml" filepath="$PROJECT_DIR$/executive/executive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/injection/injection.iml" filepath="$PROJECT_DIR$/injection/injection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interception/interception.iml" filepath="$PROJECT_DIR$/interception/interception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/primitives/primitives.iml" filepath="$PROJECT_DIR$/primitives/primitives.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serialization/serialization.iml" filepath="$PROJECT_DIR$/serialization/serialization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utilities/utilities.iml" filepath="$PROJECT_DIR$/utilities/utilities.iml" />
+    </modules>
+  </component>
+</project>

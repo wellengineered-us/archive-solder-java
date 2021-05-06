@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/primitives/pom.xml" />
+        <option value="$PROJECT_DIR$/utilities/pom.xml" />
+        <option value="$PROJECT_DIR$/serialization/pom.xml" />
+        <option value="$PROJECT_DIR$/configuration/pom.xml" />
+        <option value="$PROJECT_DIR$/context/pom.xml" />
+        <option value="$PROJECT_DIR$/executive/pom.xml" />
+        <option value="$PROJECT_DIR$/injection/pom.xml" />
+        <option value="$PROJECT_DIR$/interception/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_14" default="false" project-jdk-name="15" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
